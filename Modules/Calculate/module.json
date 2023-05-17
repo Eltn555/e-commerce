@@ -1,0 +1,11 @@
+{
+    "name": "Calculate",
+    "alias": "calculate",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Calculate\\Providers\\CalculateServiceProvider"
+    ],
+    "files": []
+}
